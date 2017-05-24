@@ -61,9 +61,13 @@
 	color: gainsboro;
 }
 .text-info {
-	color: #C49F66;
+	color: #31708f;
 }
 
 .bg-greyscale {
-	background-color: #FFFAFA;
+	background-color: gainsboro;
+}
+
+.header-content {
+
 }

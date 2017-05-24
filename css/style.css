@@ -1,7 +1,7 @@
-
-.relative{
+.relative {
 	position: relative;
 }
+
 .left {
 	position: left;
 }
@@ -9,7 +9,7 @@
 .banner_terms {
 	font-size: 12px;
 	font-size: 1.2em;
-	color:#fff;
+	color: #fff;
 	line-height: 0;
 	white-space: nowrap;
 	display: inline-block;
@@ -18,22 +18,27 @@
 	left: 10px;
 	bottom: 12px;
 }
+
 #contact .social {
 	margin-top: 60px;
 }
+
 #contact .social ul li {
 	display: inline-block;
 	margin: 0 20px;
 }
+
 #contact .social i.fa {
 	font-size: 30px;
 	padding: 4px 5px;
 	color: #fff;
 	transition: all 0.5s;
 }
+
 #contact .social i.fa:hover {
 	color: #121d1f;
 }
+
 #contact .btn {
 	background-color: transparent;
 	border: 1px solid #fff;
@@ -42,24 +47,31 @@
 	color: #fff;
 	margin-top: 15px;
 }
-#contact .btn:hover, #contact .btn:focus {
+
+#contact .btn:hover,
+#contact .btn:focus {
 	background-color: #121d1f;
 	border: 1px solid #121d1f;
 }
-.btn:active, .btn.active {
+
+.btn:active,
+.btn.active {
 	background-image: none;
 	outline: 0;
 	-webkit-box-shadow: none;
 	box-shadow: none;
 }
+
 #contact i.fa {
 	color: #FFF;
 	margin-bottom: 10px;
 }
+
 #footer {
 	background: black;
 	color: gainsboro;
 }
+
 .text-info {
 	color: #31708f;
 }
@@ -68,6 +80,9 @@
 	background-color: gainsboro;
 }
 
-.header-content {
-
+#navtext {
+	color: gainsboro;
+	font-size: 14px;
+	font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+	font-weight: 200;
 }
